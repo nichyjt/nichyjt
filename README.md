@@ -1,4 +1,4 @@
-### Hi there 👋
+## Welcome to Nich's Code Depot!
 
 <!--
 **nichyjt/nichyjt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### What can I find here?
+You can find some of my past projects and coding forays.  
+Most of my current works are coded in java, with the exception of my Data Analytics project back in 2015.
+
+
+
